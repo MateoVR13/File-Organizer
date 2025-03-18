@@ -14,9 +14,3 @@ File Organizer is a PyQt6-based desktop application that allows users to move al
 ### Prerequisites
 - Python 3.8+
 - PyQt6
-
-### Installation Steps
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/MateoVR13/File-Organizer/
-   cd FileOrganizer
