@@ -9,12 +9,13 @@ File Organizer is a PyQt6-based desktop application that allows users to move al
 - Provides a progress log to track file movements and deletions.
 - User-friendly interface with folder selection and progress visualization.
 
-## Installation
+## Installation and Usage
 1. ```git clone https://github.com/MateoVR13/File-Organizer.git```
 2. Create a virtual environment "```python -m venv venv```" (optional)
 3. Connect to venv "```source venv/bin/activate```" (only if followed step 2)
-4. ```pip install pyqt6```
-5. run the script
+4. Install PyQt6 running ```pip install pyqt6```
+5. Go to the main directory ```cd File-Organizer```
+6. Run the script ```python file_mover_ui.py```
 
 ## Captures
 
